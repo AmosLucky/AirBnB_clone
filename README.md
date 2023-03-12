@@ -132,5 +132,4 @@ HBnB -
 To all the peers that contribuited with their knowledge
 
 ### Authors :fountain_pen:
-* Iyida Clement - @iyidaclem
-* Agbo Wisdom - @dhev-wisdom
+* Amos Chibueze - @amoslucky
